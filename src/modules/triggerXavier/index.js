@@ -10,7 +10,9 @@ export default module(
                 'hey niles, play that one riff people know you for',
                 'chromeo is better than niles (who the fuck is niles?)',
                 'Enyos are only good for one thing: Wrecks',
-                'Bulleit & Woodford are barely worthy of cleaning the oil stains off my driveway'
+                'Bulleit & Woodford are barely worthy of cleaning the oil stains off my driveway',
+                "i don't know military time...im like wait +5...carry the two...divide that by the coeficient of your mom",
+                'MR XAVIER WAT TIME IS IT? THE CLOCK HAS NO SCREEN',
                 // i guess more stuff that triggers papa X goes here
             ];
 
